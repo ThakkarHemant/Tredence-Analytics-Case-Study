@@ -45,7 +45,7 @@ This encourages sparsity because:
 
 ---
 
-### 🔹 Experimental Results
+###  Experimental Results
 
 | Lambda ($\lambda$) | Test Accuracy (%) | 
 | :--- | :--- | 
