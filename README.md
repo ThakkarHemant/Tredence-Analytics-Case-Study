@@ -8,7 +8,7 @@ To improve generalization and robustness, techniques such as CutMix data augment
 
 The project demonstrates how neural networks can maintain high predictive performance while introducing mechanisms for model compression and efficiency, laying the foundation for deployment in resource-constrained environments.
 
---
+
 ###  Why L1 Penalty on Sigmoid Gates Encourages Sparsity
 
 In this model, each neuron is controlled by a learnable gate:
